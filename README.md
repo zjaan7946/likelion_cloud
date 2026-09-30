@@ -1,2 +1,2 @@
-# likelion_cloud
-기록
+# 20260930
+멋사OT진행
